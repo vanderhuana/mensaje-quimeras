@@ -508,6 +508,11 @@ const cursos = [
     nombre: "OFIMATICA - NIVEL AVANZADO PROGRAMA PROJECT",
     add: false
   }
+  { 
+    id: 97, 
+    nombre: "MANEJO DEL SISTEMA INTEGRADO DE ADMINISTRACION FINANCIERA SIAF",
+    add: false,
+  }
 ];
 
 export default cursos;
